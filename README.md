@@ -37,3 +37,7 @@ Combine per-arch OCI manifests into a single multi-arch image tag using `regctl`
 ```yaml
 - uses: regclient/actions/regctl-installer@main
 ```
+
+## Part of the pleme-io action library
+
+This action is one of 11 in [`pleme-io/pleme-actions`](https://github.com/pleme-io/pleme-actions) — discovery hub, version compat matrix, contributing guide, and reusable SDLC workflows shared across the library.
